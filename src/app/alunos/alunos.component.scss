@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    width: 48%;
+}
+
+.btn {
+    border: black 1px solid;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.btn-orange {
+    color:white;
+    background-color: #c08300;
+}
+
+.btn-green{
+    color: #ffffff;
+    background-color: green;
+}
+
+.btn-red{
+    color: #ffffff;
+    background-color: red;
+}
+
+td, th{
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+}
+
+input{
+    display: block;
+}
